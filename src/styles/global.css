@@ -4,10 +4,10 @@ box {
     text-align: center;
   }
 
-boximpairs {
+box:nth-child(even) {
     background-color: #aaaaaa;
 }
 
-boxpairs {
+box:nth-child(odd) {
   background-color: #cccccc;
 }
