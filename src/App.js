@@ -26,8 +26,6 @@ class App extends React.Component {
     return (
       <div className="container-fluid">
         <div className="row">
-          <Box/>
- 
           {/* Water */}
           <Box icon="local_drink" color="#3A85FF" value={1.5} unit="L" />
           
